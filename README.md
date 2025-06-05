@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Help Desk Projects:</h2>
 
-- <b>Help Desk Emulation Lab</b>
+- <b>Active Directory Lab</b>
+- <b>Creating a ticket with ServiceNow</b>
 
 
 <h2>  Education </h2>
